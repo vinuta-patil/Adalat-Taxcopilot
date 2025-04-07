@@ -1,0 +1,23 @@
+{
+  "caseId": "CASE-1743981532162",
+  "fileName": "1743981530897-OIO-AHM-EXCUS-002-COMMR-28-31-2019-20-Corrigendum.pdf",
+  "title": "1743981530897-OIO-AHM-EXCUS-002-COMMR-28-31-2019-20-Corrigendum",
+  "caseTitle": "1743981530897-OIO-AHM-EXCUS-002-COMMR-28-31-2019-20-Corrigendum",
+  "caseNumber": "N/A",
+  "courtLevel": "N/A",
+  "dateOfOrder": "N/A",
+  "keyIssues": [],
+  "statutoryProvisions": [],
+  "successProbability": 50,
+  "recommendation": "review",
+  "reasoning": "No detailed reasoning provided.",
+  "precedentAnalysis": "",
+  "potentialOutcome": "",
+  "rawAnalysis": "\n{\"error\": \"Unable to analyze the document as it is not in a text-based format. Please provide a text-based PDF or transcribe the key elements of the tax case for analysis.\"}",
+  "analysisTimestamp": "2025-04-06T23:18:52.163Z",
+  "similarCases": [
+    "1.-OIO-No.AHM-EXCUS-002-COMMR-01_22-23-dtd.04.05.2022_0001.pdf",
+    "10-OIO-No.AHM-EXCUS-002-COMMR-21_22-23_0001.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743981532162.pdf"
+}

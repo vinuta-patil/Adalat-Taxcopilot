@@ -1,0 +1,27 @@
+{
+  "caseId": "CASE-1743985036867",
+  "fileName": "1743985033950-OIO-NO.AHM-EXCUS-002-COMMR-37-2022-23_0001.pdf",
+  "title": "N/A",
+  "caseTitle": "N/A",
+  "caseNumber": "N/A",
+  "courtLevel": "Commissioner of Tax",
+  "dateOfOrder": "N/A",
+  "keyIssues": [
+    "N/A"
+  ],
+  "statutoryProvisions": [
+    "N/A"
+  ],
+  "successProbability": 0,
+  "recommendation": "review",
+  "reasoning": "The document provided is not suitable for analysis due to quality issues, as it appears to be an image-based PDF with no extractable text. Without access to the key facts, legal issues, and statutory provisions, it is not possible to conduct a meaningful analysis or predict the outcome of an appeal.",
+  "precedentAnalysis": "N/A",
+  "potentialOutcome": "N/A",
+  "rawAnalysis": "{\"caseTitle\": \"N/A\", \"caseNumber\": \"N/A\", \"courtLevel\": \"Commissioner of Tax\", \"dateOfOrder\": \"N/A\", \"keyIssues\": [\"N/A\"], \"statutoryProvisions\": [\"N/A\"], \"successProbability\": 0, \"recommendation\": \"review\", \"reasoning\": \"The document provided is not suitable for analysis due to quality issues, as it appears to be an image-based PDF with no extractable text. Without access to the key facts, legal issues, and statutory provisions, it is not possible to conduct a meaningful analysis or predict the outcome of an appeal.\", \"precedentAnalysis\": \"N/A\", \"potentialOutcome\": \"N/A\"}",
+  "analysisTimestamp": "2025-04-07T00:17:16.868Z",
+  "similarCases": [
+    "1.-OIO-No.AHM-EXCUS-002-COMMR-01_22-23-dtd.04.05.2022_0001.pdf",
+    "10-OIO-No.AHM-EXCUS-002-COMMR-21_22-23_0001.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743985036867.pdf"
+}

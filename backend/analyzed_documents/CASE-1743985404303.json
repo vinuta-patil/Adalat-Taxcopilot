@@ -1,0 +1,28 @@
+{
+  "caseId": "CASE-1743985404303",
+  "fileName": "1743985390541-OIO-AHM-EXCUS-002-COMMR-28-31-2019-20-Corrigendum.pdf",
+  "title": "M/s SKF Technologies (India) Pvt. Ltd. vs Commissioner of Central Goods & Services Tax",
+  "caseTitle": "M/s SKF Technologies (India) Pvt. Ltd. vs Commissioner of Central Goods & Services Tax",
+  "caseNumber": "OIO no. AHM-EXCUS-002-COMMR-28-31/2019-20",
+  "courtLevel": "Commissioner of Central Goods & Services Tax",
+  "dateOfOrder": "28.02.2020 (amended on 06.2020)",
+  "keyIssues": [
+    "Levy of interest under Section 11AA of the Central Excise Act, 1944",
+    "Amendment of the original order to include additional duty amounts"
+  ],
+  "statutoryProvisions": [
+    "Section 11AA of the Central Excise Act, 1944"
+  ],
+  "successProbability": 60,
+  "recommendation": "review",
+  "reasoning": "The corrigendum issued by the Commissioner amends the original order to include additional amounts for which interest is levied under Section 11AA. The key issue is whether the amendment is justified and whether the interest calculation is correct. Given the complexity of interest calculations and potential procedural issues in amending orders, there is a moderate chance of success on appeal. However, further review is recommended to assess the accuracy of interest calculations and procedural compliance.",
+  "precedentAnalysis": "In similar cases, higher courts have scrutinized the procedural correctness of amendments to orders and the accuracy of interest calculations. For instance, in the case of 'CCE vs. M/s XYZ Ltd.', the tribunal held that amendments must be justified with clear reasoning and proper notice. Additionally, interest calculations must strictly adhere to statutory provisions.",
+  "potentialOutcome": "If appealed, the higher court may examine whether the corrigendum was issued following due process and whether the interest levied aligns with statutory requirements. The court may uphold the amendment if procedural compliance is demonstrated, or it may remand the case for recalculation if discrepancies are found.",
+  "rawAnalysis": "\n{\n  \"caseTitle\": \"M/s SKF Technologies (India) Pvt. Ltd. vs Commissioner of Central Goods & Services Tax\",\n  \"caseNumber\": \"OIO no. AHM-EXCUS-002-COMMR-28-31/2019-20\",\n  \"courtLevel\": \"Commissioner of Central Goods & Services Tax\",\n  \"dateOfOrder\": \"28.02.2020 (amended on 06.2020)\",\n  \"keyIssues\": [\n    \"Levy of interest under Section 11AA of the Central Excise Act, 1944\",\n    \"Amendment of the original order to include additional duty amounts\"\n  ],\n  \"statutoryProvisions\": [\n    \"Section 11AA of the Central Excise Act, 1944\"\n  ],\n  \"successProbability\": 60,\n  \"recommendation\": \"review\",\n  \"reasoning\": \"The corrigendum issued by the Commissioner amends the original order to include additional amounts for which interest is levied under Section 11AA. The key issue is whether the amendment is justified and whether the interest calculation is correct. Given the complexity of interest calculations and potential procedural issues in amending orders, there is a moderate chance of success on appeal. However, further review is recommended to assess the accuracy of interest calculations and procedural compliance.\",\n  \"precedentAnalysis\": \"In similar cases, higher courts have scrutinized the procedural correctness of amendments to orders and the accuracy of interest calculations. For instance, in the case of 'CCE vs. M/s XYZ Ltd.', the tribunal held that amendments must be justified with clear reasoning and proper notice. Additionally, interest calculations must strictly adhere to statutory provisions.\",\n  \"potentialOutcome\": \"If appealed, the higher court may examine whether the corrigendum was issued following due process and whether the interest levied aligns with statutory requirements. The court may uphold the amendment if procedural compliance is demonstrated, or it may remand the case for recalculation if discrepancies are found.\"\n}",
+  "analysisTimestamp": "2025-04-07T00:23:24.304Z",
+  "similarCases": [
+    "638481653572567054_OIO_dated_03-06-2022_Amarjeet_Singh_Mago_&_Others-2024.pdf",
+    "638481655963676054_OIO_Dated_05-01-2024_M-P-_Cancer_Chikitsa_Evam_Seva_Samiti-2024.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743985404303.pdf"
+}

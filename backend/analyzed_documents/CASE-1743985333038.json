@@ -1,0 +1,36 @@
+{
+  "caseId": "CASE-1743985333038",
+  "fileName": "1743985301056-7-OIO-No.AHM-EXCUS-002-COMMR-18_22-23_0001.pdf",
+  "title": "Commissioner of Central GST & Central Excise, Ahmedabad North vs. M/s. Prabhudas Becharbhai Patel",
+  "caseTitle": "Commissioner of Central GST & Central Excise, Ahmedabad North vs. M/s. Prabhudas Becharbhai Patel",
+  "caseNumber": "STC/15-40/0A/2021",
+  "courtLevel": "Commissioner of Tax",
+  "dateOfOrder": "29.09.2022",
+  "keyIssues": [
+    "Underreporting of taxable service value in ST-3 returns compared to ITR/Form 26AS.",
+    "Non-payment/short payment of service tax amounting to Rs. 2,22,79,814/-.",
+    "Alleged suppression of facts with intent to evade tax."
+  ],
+  "statutoryProvisions": [
+    "Section 67 of the Finance Act, 1994",
+    "Section 68 of the Finance Act, 1994",
+    "Section 70 of the Finance Act, 1994",
+    "Section 73(1) of the Finance Act, 1994",
+    "Section 75 of the Finance Act, 1994",
+    "Section 78 of the Finance Act, 1994",
+    "Rule 6 of the Service Tax Rules, 1994",
+    "Rule 7 of the Service Tax Rules, 1994"
+  ],
+  "successProbability": 40,
+  "recommendation": "review",
+  "reasoning": "The case revolves around the discrepancy between the service value declared in the ST-3 returns and the income reported in the ITR/Form 26AS, leading to a significant shortfall in service tax payment. The department alleges suppression of facts with intent to evade tax, invoking extended limitation under Section 73(1) of the Finance Act, 1994. However, the success of an appeal depends on proving the intent to evade tax, which can be challenging. The assessee may argue that discrepancies were due to genuine errors or differences in accounting practices. Historical precedents show mixed outcomes in similar cases, where the burden of proving intent lies heavily on the department.",
+  "precedentAnalysis": "In cases like 'CCE vs. Chemphar Drugs & Liniments' (1989) and 'Pushpam Pharmaceuticals Company vs. CCE' (1995), the Supreme Court held that mere failure to declare does not amount to suppression unless there is deliberate withholding of information. The department must prove intent to evade tax, which is often difficult without concrete evidence.",
+  "potentialOutcome": "If appealed, the higher court may scrutinize the evidence of intent to evade tax. If the assessee can demonstrate that discrepancies were unintentional or due to accounting differences, the court may rule in favor of the assessee. However, if the department can substantiate its claims of deliberate suppression, the order may be upheld. Given the mixed probability, a detailed review of evidence and legal strategy is recommended before proceeding with an appeal.",
+  "rawAnalysis": "\n{\n  \"caseTitle\": \"Commissioner of Central GST & Central Excise, Ahmedabad North vs. M/s. Prabhudas Becharbhai Patel\",\n  \"caseNumber\": \"STC/15-40/0A/2021\",\n  \"courtLevel\": \"Commissioner of Tax\",\n  \"dateOfOrder\": \"29.09.2022\",\n  \"keyIssues\": [\n    \"Underreporting of taxable service value in ST-3 returns compared to ITR/Form 26AS.\",\n    \"Non-payment/short payment of service tax amounting to Rs. 2,22,79,814/-.\",\n    \"Alleged suppression of facts with intent to evade tax.\"\n  ],\n  \"statutoryProvisions\": [\n    \"Section 67 of the Finance Act, 1994\",\n    \"Section 68 of the Finance Act, 1994\",\n    \"Section 70 of the Finance Act, 1994\",\n    \"Section 73(1) of the Finance Act, 1994\",\n    \"Section 75 of the Finance Act, 1994\",\n    \"Section 78 of the Finance Act, 1994\",\n    \"Rule 6 of the Service Tax Rules, 1994\",\n    \"Rule 7 of the Service Tax Rules, 1994\"\n  ],\n  \"successProbability\": 40,\n  \"recommendation\": \"review\",\n  \"reasoning\": \"The case revolves around the discrepancy between the service value declared in the ST-3 returns and the income reported in the ITR/Form 26AS, leading to a significant shortfall in service tax payment. The department alleges suppression of facts with intent to evade tax, invoking extended limitation under Section 73(1) of the Finance Act, 1994. However, the success of an appeal depends on proving the intent to evade tax, which can be challenging. The assessee may argue that discrepancies were due to genuine errors or differences in accounting practices. Historical precedents show mixed outcomes in similar cases, where the burden of proving intent lies heavily on the department.\",\n  \"precedentAnalysis\": \"In cases like 'CCE vs. Chemphar Drugs & Liniments' (1989) and 'Pushpam Pharmaceuticals Company vs. CCE' (1995), the Supreme Court held that mere failure to declare does not amount to suppression unless there is deliberate withholding of information. The department must prove intent to evade tax, which is often difficult without concrete evidence.\",\n  \"potentialOutcome\": \"If appealed, the higher court may scrutinize the evidence of intent to evade tax. If the assessee can demonstrate that discrepancies were unintentional or due to accounting differences, the court may rule in favor of the assessee. However, if the department can substantiate its claims of deliberate suppression, the order may be upheld. Given the mixed probability, a detailed review of evidence and legal strategy is recommended before proceeding with an appeal.\"\n}",
+  "analysisTimestamp": "2025-04-07T00:22:13.039Z",
+  "similarCases": [
+    "1.-OIO-No.AHM-EXCUS-002-COMMR-01_22-23-dtd.04.05.2022_0001.pdf",
+    "10-OIO-No.AHM-EXCUS-002-COMMR-21_22-23_0001.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743985333038.pdf"
+}

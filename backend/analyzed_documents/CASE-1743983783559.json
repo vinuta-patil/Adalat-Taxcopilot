@@ -1,0 +1,23 @@
+{
+  "caseId": "CASE-1743983783559",
+  "fileName": "1743983779523-OIO-AHM-EXCUS-002-COMMR-07-2021-22.pdf",
+  "title": "N/A",
+  "caseTitle": "N/A",
+  "caseNumber": "N/A",
+  "courtLevel": "N/A",
+  "dateOfOrder": "N/A",
+  "keyIssues": [],
+  "statutoryProvisions": [],
+  "successProbability": 0,
+  "recommendation": "review",
+  "reasoning": "The document provided is not suitable for analysis due to quality issues, as it appears to be an image-based PDF with no extractable text. Without access to the key facts, legal issues, statutory provisions, and the court's reasoning, it is impossible to conduct a meaningful analysis or predict the outcome of an appeal. It is recommended to obtain a text-based version of the document or manually transcribe the key elements for further analysis.",
+  "precedentAnalysis": "N/A",
+  "potentialOutcome": "N/A",
+  "rawAnalysis": "{\"caseTitle\": \"N/A\", \"caseNumber\": \"N/A\", \"courtLevel\": \"N/A\", \"dateOfOrder\": \"N/A\", \"keyIssues\": [], \"statutoryProvisions\": [], \"successProbability\": 0, \"recommendation\": \"review\", \"reasoning\": \"The document provided is not suitable for analysis due to quality issues, as it appears to be an image-based PDF with no extractable text. Without access to the key facts, legal issues, statutory provisions, and the court's reasoning, it is impossible to conduct a meaningful analysis or predict the outcome of an appeal. It is recommended to obtain a text-based version of the document or manually transcribe the key elements for further analysis.\", \"precedentAnalysis\": \"N/A\", \"potentialOutcome\": \"N/A\"}",
+  "analysisTimestamp": "2025-04-06T23:56:23.561Z",
+  "similarCases": [
+    "1.-OIO-No.AHM-EXCUS-002-COMMR-01_22-23-dtd.04.05.2022_0001.pdf",
+    "10-OIO-No.AHM-EXCUS-002-COMMR-21_22-23_0001.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743983783559.pdf"
+}

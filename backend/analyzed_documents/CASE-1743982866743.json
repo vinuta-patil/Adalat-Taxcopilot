@@ -1,0 +1,27 @@
+{
+  "caseId": "CASE-1743982866743",
+  "fileName": "1743982863792-OIO-AHM-EXCUS-002-COMMR-03-2020-21.pdf",
+  "title": "Unavailable due to document quality issues",
+  "caseTitle": "Unavailable due to document quality issues",
+  "caseNumber": "Unavailable",
+  "courtLevel": "Unavailable",
+  "dateOfOrder": "Unavailable",
+  "keyIssues": [
+    "Unable to extract due to document quality"
+  ],
+  "statutoryProvisions": [
+    "Unavailable"
+  ],
+  "successProbability": 0,
+  "recommendation": "review",
+  "reasoning": "The document provided is not suitable for analysis due to quality issues, preventing extraction of key facts and legal issues. Without access to the text, it is impossible to perform a comprehensive legal analysis or predict the outcome of an appeal.",
+  "precedentAnalysis": "Unavailable due to lack of document content",
+  "potentialOutcome": "Unavailable due to lack of document content",
+  "rawAnalysis": "{\"caseTitle\": \"Unavailable due to document quality issues\", \"caseNumber\": \"Unavailable\", \"courtLevel\": \"Unavailable\", \"dateOfOrder\": \"Unavailable\", \"keyIssues\": [\"Unable to extract due to document quality\"], \"statutoryProvisions\": [\"Unavailable\"], \"successProbability\": 0, \"recommendation\": \"review\", \"reasoning\": \"The document provided is not suitable for analysis due to quality issues, preventing extraction of key facts and legal issues. Without access to the text, it is impossible to perform a comprehensive legal analysis or predict the outcome of an appeal.\", \"precedentAnalysis\": \"Unavailable due to lack of document content\", \"potentialOutcome\": \"Unavailable due to lack of document content\"}",
+  "analysisTimestamp": "2025-04-06T23:41:06.748Z",
+  "similarCases": [
+    "1.-OIO-No.AHM-EXCUS-002-COMMR-01_22-23-dtd.04.05.2022_0001.pdf",
+    "10-OIO-No.AHM-EXCUS-002-COMMR-21_22-23_0001.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743982866743.pdf"
+}

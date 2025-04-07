@@ -1,0 +1,30 @@
+{
+  "caseId": "CASE-1743985220706",
+  "fileName": "1743985178841-OIO-AHM-EXCUS-002-COMMR-16-2020-21.pdf",
+  "title": "Commissioner of Central Goods & Services Tax vs. Gujarat Technological University",
+  "caseTitle": "Commissioner of Central Goods & Services Tax vs. Gujarat Technological University",
+  "caseNumber": "F.No. STC/15-28/0A/2019",
+  "courtLevel": "Commissioner of Tax",
+  "dateOfOrder": "20.07.2020",
+  "keyIssues": [
+    "Whether Gujarat Technological University (GTU) is liable to pay service tax on affiliation fees collected from educational institutions.",
+    "Whether the activities of granting affiliation by GTU fall under the taxable service category under the Finance Act, 1994."
+  ],
+  "statutoryProvisions": [
+    "Section 14 of the Central Excise Act, 1944",
+    "Section 83 of the Finance Act, 1994",
+    "Section 35F of the Central Excise Act, 1944"
+  ],
+  "successProbability": 40,
+  "recommendation": "review",
+  "reasoning": "The case revolves around the interpretation of whether the affiliation fees collected by GTU constitute a taxable service under the Finance Act, 1994. GTU argues that it is a statutory body formed by the Gujarat Technological University Act, 2007, primarily engaged in educational activities, which are generally exempt from service tax. However, the Commissioner has determined that the affiliation fees are taxable. The legal issue hinges on whether the affiliation process is considered a service provided to educational institutions and thus taxable. Historical cases have shown mixed outcomes in similar contexts, where the nature of the service and the statutory framework of the institution play crucial roles in determining tax liability.",
+  "precedentAnalysis": "In cases like 'Indian Institute of Technology vs. Commissioner of Service Tax', educational institutions have successfully argued that their primary educational activities are exempt from service tax. However, in 'Commissioner of Service Tax vs. All India Council for Technical Education', the court ruled that certain administrative services provided by educational bodies could be taxable. The distinction often lies in whether the service is ancillary to the core educational function.",
+  "potentialOutcome": "If appealed, the higher court may scrutinize the nature of the affiliation fees and the statutory role of GTU. The court could potentially rule in favor of GTU if it finds that the affiliation process is integral to its educational mandate and not a separate taxable service. However, if the court views the affiliation as a distinct administrative service, the tax liability may be upheld. Given the mixed precedents, the outcome is uncertain, warranting a detailed review before deciding on an appeal.",
+  "rawAnalysis": "\n{\n  \"caseTitle\": \"Commissioner of Central Goods & Services Tax vs. Gujarat Technological University\",\n  \"caseNumber\": \"F.No. STC/15-28/0A/2019\",\n  \"courtLevel\": \"Commissioner of Tax\",\n  \"dateOfOrder\": \"20.07.2020\",\n  \"keyIssues\": [\n    \"Whether Gujarat Technological University (GTU) is liable to pay service tax on affiliation fees collected from educational institutions.\",\n    \"Whether the activities of granting affiliation by GTU fall under the taxable service category under the Finance Act, 1994.\"\n  ],\n  \"statutoryProvisions\": [\n    \"Section 14 of the Central Excise Act, 1944\",\n    \"Section 83 of the Finance Act, 1994\",\n    \"Section 35F of the Central Excise Act, 1944\"\n  ],\n  \"successProbability\": 40,\n  \"recommendation\": \"review\",\n  \"reasoning\": \"The case revolves around the interpretation of whether the affiliation fees collected by GTU constitute a taxable service under the Finance Act, 1994. GTU argues that it is a statutory body formed by the Gujarat Technological University Act, 2007, primarily engaged in educational activities, which are generally exempt from service tax. However, the Commissioner has determined that the affiliation fees are taxable. The legal issue hinges on whether the affiliation process is considered a service provided to educational institutions and thus taxable. Historical cases have shown mixed outcomes in similar contexts, where the nature of the service and the statutory framework of the institution play crucial roles in determining tax liability.\",\n  \"precedentAnalysis\": \"In cases like 'Indian Institute of Technology vs. Commissioner of Service Tax', educational institutions have successfully argued that their primary educational activities are exempt from service tax. However, in 'Commissioner of Service Tax vs. All India Council for Technical Education', the court ruled that certain administrative services provided by educational bodies could be taxable. The distinction often lies in whether the service is ancillary to the core educational function.\",\n  \"potentialOutcome\": \"If appealed, the higher court may scrutinize the nature of the affiliation fees and the statutory role of GTU. The court could potentially rule in favor of GTU if it finds that the affiliation process is integral to its educational mandate and not a separate taxable service. However, if the court views the affiliation as a distinct administrative service, the tax liability may be upheld. Given the mixed precedents, the outcome is uncertain, warranting a detailed review before deciding on an appeal.\"\n}",
+  "analysisTimestamp": "2025-04-07T00:20:20.711Z",
+  "similarCases": [
+    "638481653572567054_OIO_dated_03-06-2022_Amarjeet_Singh_Mago_&_Others-2024.pdf",
+    "638481655963676054_OIO_Dated_05-01-2024_M-P-_Cancer_Chikitsa_Evam_Seva_Samiti-2024.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743985220706.pdf"
+}

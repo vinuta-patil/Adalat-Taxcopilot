@@ -1,0 +1,23 @@
+{
+  "caseId": "CASE-1743981715631",
+  "fileName": "1743981713730-OIO-AHM-EXCUS-002-COMMR-24-2019-20_0001.pdf",
+  "title": "1743981713730-OIO-AHM-EXCUS-002-COMMR-24-2019-20_0001",
+  "caseTitle": "1743981713730-OIO-AHM-EXCUS-002-COMMR-24-2019-20_0001",
+  "caseNumber": "N/A",
+  "courtLevel": "N/A",
+  "dateOfOrder": "N/A",
+  "keyIssues": [],
+  "statutoryProvisions": [],
+  "successProbability": 50,
+  "recommendation": "review",
+  "reasoning": "No detailed reasoning provided.",
+  "precedentAnalysis": "",
+  "potentialOutcome": "",
+  "rawAnalysis": "\n{\"error\": \"Unable to analyze the document due to text extraction limitations. Please provide a text-based PDF or transcribe the key elements of the tax case for analysis.\"}",
+  "analysisTimestamp": "2025-04-06T23:21:55.635Z",
+  "similarCases": [
+    "638481653572567054_OIO_dated_03-06-2022_Amarjeet_Singh_Mago_&_Others-2024.pdf",
+    "638481655963676054_OIO_Dated_05-01-2024_M-P-_Cancer_Chikitsa_Evam_Seva_Samiti-2024.pdf"
+  ],
+  "originalPath": "/Users/nikileshsa/ws/stanford-hackathon-law/adalat-ai/tax-litigation-copilot/backend/analyzed_documents/CASE-1743981715631.pdf"
+}
