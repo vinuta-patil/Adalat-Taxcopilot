@@ -1,6 +1,6 @@
 # Tax Litigation CoPilot
 
-An AI-powered decision support tool for tax officers to reduce unnecessary litigation by predicting appeal outcomes.
+An AI-powered decision support tool for tax officers to reduce unnecessary litigation by predicting appeal outcomes
 
 ## Overview
 
